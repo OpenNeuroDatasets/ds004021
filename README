@@ -4,7 +4,7 @@ DESCRIPTION
 
 Subjects (N = 32) performed a visuomotor rotation task in two sessions on two consecutive days. The task required subjects to aim to intercept a target using an MRI compatible force sensor. On each trial, a target appeared in one of 8 locations on a circular ring around a start location at the center of the screen. The subject then used the force sensor to move the cursor to hit the target. After a baseline block (120 trials), the correspondence between the force sensor and the cursor was rotation by 45 deg., so that the subject had to learn to aim counter to the rotation in order to hit the target (learning block; 320 trials). Finally, the rotation was removed during a washout block of 120 trials.
 
-On each day, the scan sequence was as follows:
+On each day, the scan sequence was as follows.
 
     - Resting state scan (6 min; 180 imaging volumes)
     - A baseline block (120 trials) and learning block (320) were performed during a single contiguous scan (a total of 896 imaging volumes)
